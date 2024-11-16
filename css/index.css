@@ -3,3 +3,8 @@
   padding: 0;
   border: 0;
 }
+body {
+  height: 100vw;
+  width: 100vh;
+  background-color: black;
+}
